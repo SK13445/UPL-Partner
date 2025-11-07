@@ -116,7 +116,8 @@ UPL-Partner/
    ```
 
 6. **Access the application**:
-   - Frontend: http://localhost:3000
+   - Frontend: upl client: http://localhost:5713
+   - client http://localhost:3000
    - Backend API: http://localhost:5000
 
 ## User Roles & Workflow
